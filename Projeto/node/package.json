@@ -1,0 +1,30 @@
+{
+  "name": "ex2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo2.database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "circular-json": "^0.3.1",
+    "mongodb": "^2.2.11",
+    "multer": "^1.2.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "passport-github": "^1.1.0",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-http-bearer": "^1.0.1",
+    "passport-local": "^1.0.0",
+    "restify": "^4.3.0",
+    "sha1": "^1.1.1",
+    "socket.io": "^1.6.0",
+    "ws": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^0.0.2"
+  }
+}
